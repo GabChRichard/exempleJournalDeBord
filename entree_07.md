@@ -15,3 +15,4 @@ Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développe
 ### Qualité visuelle (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la qualité visuelle de la conférence?Est-ce que l'esthétisme était de qualité?
 
+
