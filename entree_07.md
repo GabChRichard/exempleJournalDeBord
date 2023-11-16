@@ -1,4 +1,4 @@
-# Entrée 07
+# Entrée 7
 ## Analyse critique de la conférence
 
 L’objectif de cet exercice est de développer une opinion sur la conférence que nous avons eu en classe. 
